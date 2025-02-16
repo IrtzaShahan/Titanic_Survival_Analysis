@@ -7,8 +7,8 @@ This project analyzes the Titanic dataset to determine survival factors.
 ```
 📁 Titanic_Survival_Analysis
  ├── 📂 data (titanic.csv)
- ├── 📂 notebooks (Assignment_3_Part_2.ipynb)
- ├── 📂 reports (executive_summary.pdf)
+ ├── 📂 Src (notebook - Assignment_3_Part_2.ipynb)
+ ├── 📂 results (executive_summary.pdf)
  ├── README.md
 ```
 
